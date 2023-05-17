@@ -1,0 +1,15 @@
+PySide6
+PyQtWebEngine
+exiv2
+appdirs
+cachetools
+chardet
+requests
+pyenchant
+requests-oauthlib 1.0+
+requests-toolbelt 0.9+
+keyring
+FFmpeg
+Pillow
+python3-gphoto2
+gpxpy
